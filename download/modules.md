@@ -93,7 +93,7 @@ an attractive descendants chart capable to display up to 25 generations.
 
 ### Extended Import/Export - by Jefferson49 - `2.1` - [website](https://github.com/Jefferson49/ExtendedImportExport)
 
-A custom module for advanced GEDCOM import, export ,and filter operations. A set of pre-configured GECCOM filters is provided, which support GEDCOM 7 conversion as well as a variety of other GEDCOM filtering operations. The GEDCOM filters can be triggered remotely as well as by the user in specific import/export/conversion/datafix views. The module also supports remote downloads/uploads of GEDCOM files via URL requests.
+A custom module for advanced GEDCOM import, export, and filter operations. A set of pre-configured GECCOM filters is provided, which support GEDCOM 7 conversion as well as a variety of other GEDCOM filtering operations. The GEDCOM filters can be triggered remotely as well as by the user in specific import/export/conversion/datafix views. The module also supports remote downloads/uploads of GEDCOM files via URL requests.
 
 ----------
 
@@ -315,7 +315,7 @@ Sends a daily reminder of anniversaries.
 
 ### Repository Hierarchy - by Jefferson49 - `2.1` - [website](https://github.com/Jefferson49/RepositoryHierarchy) - [demo](https://www.familienforschung-hemprich.de/webtrees2/index.php?route=%2Fwebtrees2%2Ftree%2Fhemprich%2Frepositoryhierarchy%2Fxref%2F%7Bxref%7D%2Fcommand%2F%7Bcommand%7D&delimiter_expression=&language=en-GB)
 
-This module presents the structure of a repository and its sources in a hierarchical manner. Based on the hierarchical structure, a finding aid document (HTML or PDF export) can be generated. The module also provides an EAD XML export, which enables data exchange and linking with an external archive management system or with an archive portal.
+This module presents the structure of a repository and its sources in a hierarchical manner. Based on the hierarchical structure, a finding aid document (HTML or PDF export) can be generated. The module also provides an EAD XML export, which enables data exchange and linking with an external archive management system or with an archive portal. Further features improve the handling of sources, source citations, and media objects.
 
 ----------
 ### Rural Theme - by jon48 - `1.7` - `2.0` - `2.1` - [website](https://github.com/jon48/webtrees-theme-rural) - [demo](https://genea.jaubart.com/wt)
